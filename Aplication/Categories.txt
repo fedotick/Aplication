@@ -1,0 +1,7 @@
+000001                                                           Candies                                           
+000002                                                           Alcoholic                                         
+000005                                                           Fruits_and_vegetables                             
+000007                                                           Meat,_fish,_poultry                               
+000008                                                           Sausage_productsproducts                          
+000009                                                           Hot_drinks                                        
+000010                                                           Bakery                                            

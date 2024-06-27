@@ -1,0 +1,16 @@
+Cottage_cheese_Casuta_Mea_9%                      g      000006    500       02.02.2022    12.02.2022    39.9      
+Banana                                            kg     000005    1         01.07.2021    25.05.2022    29.78     
+Sausage_Rogob_Moldovenesc                         g      000008    1000      08.04.2022    31.05.2022    156.9     
+Snack_Milka_Schoko_Snack_Minis                    g      000001    128       13.01.2022    13.08.2022    45.9      
+Avocado                                           kg     000005    1         31.08.2021    13.08.2022    79.9      
+Pork_belly_Rogob                                  g      000008    1000      23.05.2022    10.06.2022    184.9     
+Greenfield_black_tea_bags_Ceylon                  g      000009    50        31.08.2021    31.08.2023    38.9      
+Cucumbers_Moldova                                 kg     000005    1         28.05.2022    30.09.2022    25.9      
+Chicken_eggs_Metro_Chef                           ths.   000006    10        28.05.2022    28.09.2022    28.49     
+Chocolates_Bucuria_Moldova                        g      000001    250       29.05.2022    31.08.2023    44.9      
+Lavash_Armenian_thin                              g      000000    270       29.05.2022    29.09.2022    15.9      
+Bread_Borodinsky_Franzeluta_sliced                g      000000    600       12.04.2022    12.05.2022    9.19      
+Kiwi                                              kg     000005    1         25.05.2022    26.05.2023    32.9      
+Tea_Three_Elephants_chamomile_in_bags             g      000009    26        13.11.2021    21.11.2022    10.9      
+Pomegranate                                       kg     000005    1         02.05.2021    14.05.2022    84.9      
+Dorada_royal                                      g      000007    300       23.04.2022    30.11.2022    44.7      

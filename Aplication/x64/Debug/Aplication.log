@@ -1,0 +1,14 @@
+﻿  main.cpp
+  shop.cpp
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\I year\PRACTICE 2022\Aplication\Aplication\shop.cpp(498,29): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\I year\PRACTICE 2022\Aplication\Aplication\shop.cpp(527,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\I year\PRACTICE 2022\Aplication\Aplication\shop.cpp(635,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\I year\PRACTICE 2022\Aplication\Aplication\shop.cpp(695,32): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\I year\PRACTICE 2022\Aplication\Aplication\shop.cpp(1087,33): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\I year\PRACTICE 2022\Aplication\Aplication\shop.cpp(1096,33): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\I year\PRACTICE 2022\Aplication\Aplication\shop.cpp(1273,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\I year\PRACTICE 2022\Aplication\Aplication\shop.cpp(1355,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\I year\PRACTICE 2022\Aplication\Aplication\shop.cpp(522,1): warning C4172: возвращение адреса локальной или временной переменной : newFileName
+C:\Users\Фёдор Ткачук\OneDrive\CEITI\I year\PRACTICE 2022\Aplication\Aplication\shop.cpp(505,1): warning C4172: возвращение адреса локальной или временной переменной : fileName
+  Aplication.vcxproj -> C:\Users\Фёдор Ткачук\OneDrive\CEITI\I year\PRACTICE 2022\Aplication\x64\Debug\Aplication.exe
